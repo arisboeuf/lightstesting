@@ -1,1 +1,6 @@
-{"version_code":50,"version_name":"build-50","apk_url":"https://github.com/arisboeuf/lightstesting/raw/main/apidle-latest.apk","web_url":"https://arisboeuf.github.io/lightstesting/web/"}
+{
+  "version_code": 51,
+  "version_name": "build-51",
+  "apk_url": "https://github.com/arisboeuf/lightstesting/raw/main/apidle-latest.apk",
+  "web_url": "https://arisboeuf.github.io/lightstesting/web/"
+}
